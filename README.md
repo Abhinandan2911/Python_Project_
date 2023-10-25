@@ -1,2 +1,1 @@
-# Web-_Projects_
-Projects 
+To generate QR code upload all these files in same folder and run the test.py you will see the tkinter dailog box in the scree their you will enter the url of your choice and give the name to save the QR code then click the save button then the QR code will be saved in the same folder where your file is running.
